@@ -2,7 +2,7 @@ package practiceLogic;
 
 public class PrimeCheck {
 	
-	static int input = 2;
+	static int input = 101;
 	
 	
 	public static void main(String []args) {	
